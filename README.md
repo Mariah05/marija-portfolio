@@ -9,7 +9,7 @@ Welcome to my portfolio! Here, you can find my projects related to:
 - Sales Strategies 💼
 
 ## Projects
-- [Power BI Dashboards](https://github.com/marijatalevska/powerbi-dashboards)
+- [Power BI Dashboards](https://github.com/Mariah05/marija-portfolio/blob/main/powerbi-dashboards)
 - [Business Analysis Reports](https://github.com/Mariah05/marija-portfolio/blob/main/business-analysis-projects)
 - [Notion Templates](https://github.com/marijatalevska/notion-templates)
 
