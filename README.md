@@ -1,4 +1,3 @@
-# marija-portfolio
 # Marija Talevska | Portfolio
 🚀 Business Analyst | Systems Analyst | Power BI | Data Enthusiast
 
