@@ -10,7 +10,7 @@ Welcome to my portfolio! Here, you can find my projects related to:
 
 ## Projects
 - [Power BI Dashboards](https://github.com/marijatalevska/powerbi-dashboards)
-- [Business Analysis Reports](https://github.com/marijatalevska/business-analysis-projects)
+- [Business Analysis Reports]([https://github.com/marijatalevska/business-analysis-projects](https://github.com/Mariah05/marija-portfolio/blob/main/business-analysis-projects))
 - [Notion Templates](https://github.com/marijatalevska/notion-templates)
 
 Let's connect on [LinkedIn](https://linkedin.com/in/marija-talevska) 💡
