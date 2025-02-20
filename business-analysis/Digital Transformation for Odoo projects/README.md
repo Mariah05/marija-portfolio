@@ -1,4 +1,4 @@
-# Project: Digital Transformation for X Company  
+# Project: Digital Transformation for Projects
 
 ## 📌 Overview  
 This project aimed to optimize business operations by implementing an ERP system (Odoo) and enhancing workflow automation.  
