@@ -51,7 +51,6 @@ The first phase focused on **automating sales, purchase, inventory, and CRM** wo
 
 📂 [View Full Case Study](phase-1-report.docx)  
 
-
 # 📌 Phase 2 - Digital Transformation (E-commerce & Invoicing)  
 
 ## 🚀 Overview  
